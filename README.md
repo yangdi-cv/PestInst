@@ -2,7 +2,7 @@
 
 By Y. Di, S. L. Phung, L. Bui, H. T. Le, J. Berg, J. Clissold, and A. Bouzerdoum.
 
-<img src="https://github.com/yangdi-cv/PestInst/blob/main/pestinst.png?raw=true" height="300"/>
+<img src="https://github.com/yangdi-cv/PestInst/blob/main/pestinst-network.png?raw=true" height="300"/>
 
 The paper is under review, and the code will be released after publication.
 
